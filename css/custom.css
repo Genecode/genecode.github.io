@@ -1,0 +1,16 @@
+.center {
+  text-align: center;
+}
+
+.left-column {
+  text-align: right;
+
+}
+.right-column {
+  text-align: left;
+  border-left: 3px #1EAEDB solid;
+  padding-left: 4%;
+}
+.sub-title {
+  font-weight: bold;
+}
